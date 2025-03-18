@@ -90,6 +90,4 @@ Visit the live site: [C++ Reference Website](https://lovely-froyo-2b9599.netlify
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/cpp-reference-site](https://github.com/yourusername/cpp-reference-site)
+Ponguru Aasrith Sairam - https://www.linkedin.com/in/aasrith-sairam-ponguru-bb4a75240/
